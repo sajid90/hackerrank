@@ -1,1 +1,1 @@
-# hackerrank
+# Solving hackerrank problems in Python
